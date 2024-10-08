@@ -18,18 +18,6 @@
      spring.datasource.password=YOUR_PASSWORD
      ```
 
-# 실행 방법
-
-1. **프로젝트 빌드 및 실행**
-
-   - Maven을 사용하여 프로젝트를 빌드합니다.
-     ```bash
-     ./mvnw clean package
-     ```
-   - 빌드가 완료되면, 다음 명령어로 애플리케이션을 실행합니다.
-     ```bash
-     java -jar target/skuCampusAlarm.jar
-     ```
 
 <br>
 
